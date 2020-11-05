@@ -7,7 +7,7 @@ included is my attempt at a bare bones haskell project, implemented as a nix fla
 allows usage within `nix shell`, assuming a flakes system, with the followng:
 
 ```
-nix shell github:techieAgnostic/haskeleton#haskeleton
+nix shell github:techieAgnostic/haskeleton
 ```
 
 otherwise it can be built normally with:
